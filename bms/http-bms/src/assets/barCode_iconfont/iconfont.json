@@ -1,0 +1,44 @@
+{
+  "id": "3831484",
+  "name": "BMS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16399029",
+      "name": "图片识别",
+      "font_class": "tupianshibie",
+      "unicode": "e85f",
+      "unicode_decimal": 59487
+    },
+    {
+      "icon_id": "6078874",
+      "name": "扫码付款-01",
+      "font_class": "saomafukuan-",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "17757167",
+      "name": "图片识别",
+      "font_class": "tubiaoji_tupianshibie",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "19105814",
+      "name": "扫码-big",
+      "font_class": "saoma-big",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "26954408",
+      "name": "扫码-06",
+      "font_class": "saoma-06",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
